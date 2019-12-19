@@ -1,0 +1,44 @@
+{
+    "name": "Data-Smart Cities",
+    "description": "Data-Smart City Solutions is working to catalyze adoption of data projects on the local government level by serving as a central resource for cities interested in this emerging field. We highlight best practices, top innovators, and promising case studies while also connecting leading industry, academic, and government officials.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/data-smart-city-solutions.png",
+    "tags": [
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datasmart-cities\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Data-Smart Cities",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/data-smart-city-solutions.png",
+            "humanURL": "http:\/\/datasmart.ash.harvard.edu\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datasmart-cities-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/datasmart.ash.harvard.edu\/feeds"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DataSmartCities"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/datasmart.ash.harvard.edu\/"
+        }
+    ]
+}
